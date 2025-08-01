@@ -1,4 +1,16 @@
 
+### Pár szót szólnék informálisan
+
+A feladat elég tetemes mennyiségű munkát foglalt magában. Remélem, hogy ez egy Star Trek Kobayashi Maru jellegű feladat, ugyanis ennyi idő alatt nem lehet megoldani. Mivel full-stack fejlesztő vagyok, ezért az volt a célom, hogy egy olyan MVP-t adjak át, ami elejétől a végéig rendben van. Amire lehet építkezni tovább, kiosztható részfeladatokra más fejlesztőknek. A backend adatbázisba ment, rest apival kommunikál, a frontend-en vannak listák, szerkeszthetőek, amelyeket az api-val használ, routeok és nagyon minimál design. Mindez dockerizálható, és konténerben önállóan elindítható. Ez megvalósítottam. 
+
+- A fejlesztést egy WSL konténerben végeztem (párszor már volt tapasztalatom vele, most kiváncsiságból csak ezt használtam és jó volt)
+- Futottam a JHipster-el, az azonban túlságosan gigantikus eredményt produkált, ezért inkább alulról építkeztem. 
+- Használtam Copilot-ot és Chatgpt-t aktívan.
+
+A teljes leírt specifikációt a kért funkciókkal legalább 10 MD, de inkább többre becsülném. Érthető, ha egy interjú munkára ez sok idő lenne.
+
+Ha kérik, készítek egy részletesebb becslést, tartható határidőkkel. (ezt visszaolvasva, olyan mintha a chatgpt írta volna :D de azt csak kódolásra használtam)
+
 # Készen van
  - Lapozható lista backenden
  - Swagger
@@ -22,15 +34,16 @@
  - Admin felhasználó
  - Önálló regisztráció
  - Végpontok levédése
- Junit és integrációs tesztek
- Kapcsolattartó-Telefonok-Címek relációk létrehozása
- Postgresql
- Api first átalakítás
+ - Junit és integrációs tesztek
+ - Kapcsolattartó-Telefonok-Címek relációk létrehozása
+ - Postgresql
+ - Api first átalakítás
 
 ### Frontend
- -  reactive form validáció
- -  reszponzívabb design
- -  Többféle adattípus használata (dátum, szám)
+ - reactive form validáció
+ - reszponzívabb design
+ - Többféle adattípus használata (dátum, szám)
+ - kliens generálás automatikus és ne legyen a forráskódban
 
 ### CICD
   - Jenkins
