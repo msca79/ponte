@@ -7,9 +7,10 @@ A feladat elég tetemes mennyiségű munkát foglalt magában. Remélem, hogy ez
 - Futottam a JHipster-el, az azonban túlságosan gigantikus eredményt produkált, ezért inkább alulról építkeztem. 
 - Használtam Copilot-ot és Chatgpt-t aktívan.
 
-A teljes leírt specifikációt a kért funkciókkal legalább 10 MD, de inkább többre becsülném. Érthető, ha egy interjú munkára ez sok idő lenne.
+A teljes leírt specifikációt a kért funkciókkal legalább 10 MD, de inkább többre becsülném. Érthető, hogy egy interjú munkára sok idő lenne.  Ezért amikor elértem az idő, amennyit rászántam, abbahagytam.
 
-Ha kérik, készítek egy részletesebb becslést, tartható határidőkkel. (ezt visszaolvasva, olyan mintha a chatgpt írta volna :D de azt csak kódolásra használtam)
+Ha kérik, készítek egy részletesebb becslést, tartható határidőkkel.    
+(ezt visszaolvasva, olyan mintha a chatgpt írta volna :D de azt csak kódolásra használtam)
 
 # Készen van
  - Lapozható lista backenden
@@ -28,6 +29,7 @@ Ha kérik, készítek egy részletesebb becslést, tartható határidőkkel. (ez
 ![Swaggerui](swaggerui.png)
 
 ## Ami még hátra lenne
+ - Nagyon sok minden
  
 ### Backend
  - Security (LDAP/AD alapú auth)
@@ -50,7 +52,7 @@ Ha kérik, készítek egy részletesebb becslést, tartható határidőkkel. (ez
 
 # Tisztázandó funckió: 
  - biztosíts egy funkciót, amellyel a felhasználók egy gombnyomással törölhetik személyes adataikat az adatbázisból
-
+ 
 
 ## Pár lépés a fejlesztői környezet összerakásához
 ```
